@@ -4,7 +4,7 @@ Bitcoin Core quick install guide
 Install and run:
 
 ```bash
-wget https://bitcoin.org/bin/bitcoin-core-0.15.0.1/bitcoin-0.15.0.1-x86_64-linux-gnu.tar.gz
+wget https://bitcoin.org/bin/bitcoin-core-0.15.2/bitcoin-0.15.2-aarch64-linux-gnu.tar.gz
 tar -xvf  bitcoin-0.15.0.1-x86_64-linux-gnu.tar.gz 
 cd bitcoin-0.15.0/
 mkdir datadir
